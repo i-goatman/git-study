@@ -6,5 +6,5 @@
 - git push コマンドで、ローカルのコミットをリモートのリポジトリに反映させることができる
 
 
-#2 io<br>
+# io<br>
 <a>https://i-goatman.github.io/git-study</a>
